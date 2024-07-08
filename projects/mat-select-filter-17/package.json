@@ -1,0 +1,52 @@
+{
+  "name": "mat-select-filter",
+  "version": "16.0.0",
+  "peerDependencies": {
+    "@angular/common": ">=14.0.0 <18.0.0",
+    "@angular/core": ">=14.0.0 <18.0.0"
+  },
+  "main": "bundles/mat-select-filter.umd.js",
+  "module": "fesm2020/mat-select-filter.js",
+  "es2015": "fesm2015/mat-select-filter.js",
+  "esm5": "esm5/mat-select-filter.js",
+  "esm2015": "esm2015/mat-select-filter.js",
+  "esm2020": "esm2020/mat-select-filter.js",
+  "fesm5": "fesm5/mat-select-filter.js",
+  "fesm2015": "fesm2015/mat-select-filter.js",
+  "fesm2020": "fesm2020/mat-select-filter.js",
+  "dependencies": {
+    "tslib": "^2.3.1"
+  },
+  "angular": {
+    "version": "16.0.0 - 17.0.0"
+  },
+  "description": "https://github.com/mdlivingston",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdlivingston/mat-select-filter.git"
+  },
+  "keywords": [
+    "Angular 16",
+    "Angular 17",
+    "7",
+    "Material",
+    "Angular",
+    "Material",
+    "mat-select-filter",
+    "mat-select",
+    "filtering",
+    "dropdown",
+    "angular",
+    "dropdown",
+    "dropdown"
+  ],
+  "author": "Max Livingston (Upgraded by magdy elsayyad)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdlivingston/mat-select-filter/issues"
+  },
+  "homepage": "https://github.com/mdlivingston/mat-select-filter#readme"
+}
