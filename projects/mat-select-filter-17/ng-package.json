@@ -1,6 +1,6 @@
 {
   "$schema": "../../node_modules/ng-packagr/ng-package.schema.json",
-  "dest": "../../dist/mat-select-filter",
+  "dest": "../../dist/mat-select-filter-17",
   "lib": {
     "entryFile": "src/public_api.ts"
   }

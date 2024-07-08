@@ -1,5 +1,5 @@
 {
-  "name": "mat-select-filter",
+  "name": "mat-select-filter-17",
   "version": "16.0.0",
   "peerDependencies": {
     "@angular/common": ">=14.0.0 <18.0.0",
@@ -35,7 +35,7 @@
     "Material",
     "Angular",
     "Material",
-    "mat-select-filter",
+    "mat-select-filter-17",
     "mat-select",
     "filtering",
     "dropdown",
@@ -43,6 +43,7 @@
     "dropdown",
     "dropdown"
   ],
+  
   "author": "Magdy elsayyad (Forked from Max Livingston)",
   "license": "ISC",
   "bugs": {
