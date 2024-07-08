@@ -20,13 +20,13 @@
   "angular": {
     "version": "16.0.0 - 17.0.0"
   },
-  "description": "https://github.com/mdlivingston",
+  "description": "https://github.com/MagdyElsayyad/mat-select-filter-17",
   "directories": {
     "lib": "lib"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mdlivingston/mat-select-filter.git"
+    "url": "git+https://github.com/MagdyElsayyad/mat-select-filter-17.git"
   },
   "keywords": [
     "Angular 16",
@@ -43,10 +43,10 @@
     "dropdown",
     "dropdown"
   ],
-  "author": "Max Livingston (Upgraded by magdy elsayyad)",
+  "author": "Magdy elsayyad (Forked from Max Livingston)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mdlivingston/mat-select-filter/issues"
+    "url": "https://github.com/MagdyElsayyad/mat-select-filter-17/issues"
   },
-  "homepage": "https://github.com/mdlivingston/mat-select-filter#readme"
+  "homepage": "https://github.com/MagdyElsayyad/mat-select-filter-17#readme"
 }
