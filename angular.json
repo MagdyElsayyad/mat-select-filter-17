@@ -98,6 +98,7 @@
       "projectType": "library",
       "root": "projects/mat-select-filter-17",
       "sourceRoot": "projects/mat-select-filter-17/src",
+      
       "prefix": "lib",
       "architect": {
         "build": {

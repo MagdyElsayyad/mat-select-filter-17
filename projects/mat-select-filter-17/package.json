@@ -1,29 +1,17 @@
 {
   "name": "mat-select-filter-17",
-  "version": "16.0.0",
+  "version": "17.0.0",
   "peerDependencies": {
-    "@angular/common": ">=14.0.0 <18.0.0",
-    "@angular/core": ">=14.0.0 <18.0.0"
+    "@angular/common": "^18.0.0",
+    "@angular/core": "^18.0.0"
   },
-  "main": "bundles/mat-select-filter.umd.js",
-  "module": "fesm2020/mat-select-filter.js",
-  "es2015": "fesm2015/mat-select-filter.js",
-  "esm5": "esm5/mat-select-filter.js",
-  "esm2015": "esm2015/mat-select-filter.js",
-  "esm2020": "esm2020/mat-select-filter.js",
-  "fesm5": "fesm5/mat-select-filter.js",
-  "fesm2015": "fesm2015/mat-select-filter.js",
-  "fesm2020": "fesm2020/mat-select-filter.js",
   "dependencies": {
     "tslib": "^2.3.1"
   },
   "angular": {
-    "version": "16.0.0 - 17.0.0"
+    "version": "16.0.0 - 18.0.0"
   },
   "description": "https://github.com/MagdyElsayyad/mat-select-filter-17",
-  "directories": {
-    "lib": "lib"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MagdyElsayyad/mat-select-filter-17.git"
@@ -43,7 +31,6 @@
     "dropdown",
     "dropdown"
   ],
-  
   "author": "Magdy elsayyad (Forked from Max Livingston)",
   "license": "ISC",
   "bugs": {

@@ -11,6 +11,9 @@
     "paths": {
       "mat-select-filter-17": [
         "./dist/mat-select-filter-17"
+      ],
+      "test-lib": [
+        "./dist/test-lib"
       ]
     },
     "noFallthroughCasesInSwitch": true,
